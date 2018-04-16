@@ -1,0 +1,121 @@
+.header-color {
+  background: #536976;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #292E49, #536976);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #292E49, #536976); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  
+}
+
+.mdl-grid {
+  background: #536976;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to left, #292E49, #536976);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to left, #292E49, #536976); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+}
+
+
+.home-grid {
+  background: #536976;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #292E49, #536976);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #292E49, #536976); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  position: fixed;
+  text-align: center;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.contact-body {
+  margin: auto;
+  background: wheat;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  padding-top: 2em;
+}
+.contact-grid {
+  text-align: center;
+  justify-content: center;
+  width: 80%;
+  height: 700px;
+  background: white;
+  color: black;
+  border: 2px solid blue;
+  margin-bottom: 20px;
+}
+
+.contact-grid h2 {
+  font-family: 'oxygen', sans-serif;
+  font-weight: bold;
+}
+
+.contact-grid p {
+  font-family: 'oxygen', sans-serif;
+  font-weight: bold;
+}
+
+.contact-grid hr {
+  border-top: 5px dotted blue;
+  width: 50%;
+  margin: auto;
+}
+
+.headshot-image {
+  height: 250px;
+  padding-top: 7em;
+}
+
+.img-circle {
+  border-radius: 69%;
+}
+
+.projects-grid {
+  display: flex;
+  padding: 6.9em;
+  flex-wrap: wrap;
+
+}
+
+.banner-text {
+  background-color: black;
+  opacity: .49;
+  width: 69%;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.banner-text h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+.banner-text hr {
+  border-top: 5px dotted white;
+  width: 50%;
+  margin: auto;
+
+}
+
+.banner-text p {
+  color: white;
+  font-size: 20px;
+  padding: 1em;
+  text-align: center;
+}
+
+.social-links {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: auto;
+}
+
+.social-links i {
+  color: white;
+  padding: 25px;
+  font-size: 8em;
+  text-align: center;
+}
