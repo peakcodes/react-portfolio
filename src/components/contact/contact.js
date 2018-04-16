@@ -17,7 +17,7 @@ class Contact extends Component {
                     When I have free time, I find myself outdoors or evaluating financial markets. I partiuclar like hiking, skiing, studying cryptocurrecy and reading. Furthermore, expanding my skillset and continuing my education.</p>
                     </Cell>
                     <Cell col={6}>
-                    <h2> Contact Me <h2>
+                    <h2> Contact Me </h2>
                     <hr/>
                     </Cell>
                </Grid>
