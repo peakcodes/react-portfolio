@@ -32,7 +32,7 @@ class Projects extends Component {
                     A game built off financial charts that allows users to pick particular assets and play golf ontop of such charts with particular time frames.
             </CardText>
                     <CardActions border>
-                        <Button colored href="https://crypto-golf.herokuapp.com/" target="_blank">Application</Button>
+                        <Button colored href="https://crypto-golf.herokuapp.com/" target="_blank">Game</Button>
                         <Button colored href="https://github.com/peakcodes/cryptoGolf" target="_blank">GitHub</Button>
                     </CardActions>
                     <CardMenu style={{ color: '#fff' }}>
@@ -74,7 +74,7 @@ class Projects extends Component {
                     An application built to be a one stop shop for getting bitcoin, crypto and blockchain news. Users have the ability to saved articles as well as notes.
             </CardText>
                     <CardActions border>
-                        <Button colored>Game</Button>
+                        <Button colored>Application</Button>
                         <Button colored href="https://github.com/peakcodes/NYTScrapper" target="_blank">GitHub</Button>
                     </CardActions>
                     <CardMenu style={{ color: '#fff' }}>
