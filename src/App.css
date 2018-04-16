@@ -50,6 +50,7 @@ background: linear-gradient(to left, #292E49, #536976); /* W3C, IE 10+/ Edge, Fi
 .contact-grid h2 {
   font-family: 'oxygen', sans-serif;
   font-weight: bold;
+  border-top: 5px;
 }
 
 .contact-grid p {
@@ -122,3 +123,13 @@ background: linear-gradient(to left, #292E49, #536976); /* W3C, IE 10+/ Edge, Fi
   font-size: 8em;
   text-align: center;
 }
+
+.contact-links i {
+  color: black;
+  text-align: center;
+}
+
+.contact-links a {
+  color: blue
+}
+
